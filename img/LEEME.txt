@@ -1,0 +1,1 @@
+Las imágenes (logo.png, bg.jpg, f1.jpg, f6.jpg, f7.jpg) ya están en el hosting actual y no se tocan al publicar.
